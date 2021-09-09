@@ -1,1 +1,1 @@
-# maximajupyter
+# maximajupyter setup
